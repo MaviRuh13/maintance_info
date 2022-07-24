@@ -2,6 +2,7 @@
 #-------------------------------------------------------------------------------|
 # NOT : Kodlama > Karakter Takimi > Turkce > ISO 8859-9 yapmadan editlemeyin!!! |
 #-------------------------------------------------------------------------------|
+
 import ui, wndMgr, serverInfo
 class Bar(ui.Window):
 	def RegisterWindow(self, layer):

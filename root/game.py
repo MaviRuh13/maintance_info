@@ -39,3 +39,4 @@ import bakim_tablosu
 			self.bakim_tablosu.Close()
 		else:
 			self.bakim_tablosu.Show()
+
